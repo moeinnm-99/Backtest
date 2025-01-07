@@ -1,5 +1,5 @@
 # Coming Soon...
-# Please Wait And Follow Me TNX
+# Please Wait And Follow Me Tnx
 
 # Backtest
 Backtest Using Python
