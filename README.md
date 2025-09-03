@@ -3,7 +3,7 @@
 
 
 
-# Please Wait And Follow Me Tnx....
+#please Wait And Follow Me Tnx....
 
 # Backtest
 Backtest Using Python
