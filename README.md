@@ -16,4 +16,3 @@ Backtest Using Python
 <p>This Project Based On Python And It's Librarys Like VectorBT</p>
 
 
-A
