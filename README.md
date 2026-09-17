@@ -19,4 +19,3 @@ Backtest Using Python
 A
 A
 A
-A
